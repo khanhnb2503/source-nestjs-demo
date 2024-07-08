@@ -1,0 +1,8 @@
+mongoose:
+  url: mongodb+srv://khanhnb:khanhnb99@cluster0.ktz751h.mongodb.net/zing-mp3
+
+jwt:
+  accessSecret: 'N3AHHzKhlYv1wbJRklbcMYpAMMK05CNz3MwKuao67VdYAQn2Oht14WPnvR9DwGKu'
+  refreshSecret: 'tbipCxhVlqJZX4qpVjNqzn4cuXbjPg1cClHSwF13LdQDFGxo6jnTYclKXTrZd1Ca'
+  accessExpiresIn: 1d
+  refreshExpiresIn: 30d
