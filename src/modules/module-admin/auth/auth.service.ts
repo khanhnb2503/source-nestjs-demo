@@ -35,7 +35,7 @@ export class AuthService {
     // if (!user.status.isActive) throw new BadRequestException(EnumResponseError.ACCOUNT_IS_INACTIVE);
 
     // const accessToken = this.signToken({ user, typeToken: EnumTokenType.ACCESS_TOKEN });
-    // return { accessToken };
+    // return { accessToken }
     return 'accessToken';
   }
 
